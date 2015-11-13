@@ -29,3 +29,4 @@ Briefly:
 - Heroku (optional)
 - Jquery/Angular (optional)
 - [Material Design Theme] (http://192.185.228.226/projects/ma/1-5-1/) (optional)
+- Rest is up to you
