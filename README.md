@@ -4,7 +4,7 @@
 
 Create an app that uses twilio api to send/receive messages with a presentable theme/style. Very simple version of current GoMoment app right now as in: there's a "hotel" model with multiple users that can have different levels of access - agents that can read/send messages, managers that can add/remove users and set rules like "no messages can go out at time X" and some auto responders. 
 
-We'll judge what the final project looks like, how the project got speced out/management of milestones, how much got done/planned, communication while working on the project, commentary, test coverage, and code quality. This should be ready for prod implementation. Be able to discuss decisions, performance, and ways to improve.
+We'll judge what the final project looks like, how the project got speced out/management of milestones, how much got done/planned, communication while working on the project, comments/documentation, test coverage, and code quality. This should be ready for prod implementation. Be able to discuss decisions, performance, and ways to improve.
 
 ### Requirements/specs
 
